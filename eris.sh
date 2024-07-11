@@ -87,3 +87,6 @@ main() {
 }
 
 main
+cd ErisPhisher
+$ bash eris.sh
+
